@@ -14,7 +14,7 @@ BASK IN MY GLORY AS YOU NOW KNOW YOUR WAITING HAS PAID OFF!
 
 DOWNLOAD THIS GAME... AND WITNESS MY POWER!!!
 
-# How to Download:
+## How to Download:
 
 1. Click on the "Main" drop-down list and select which version you wish to download
 2. Click the green "Code" button and select "Download ZIP."
@@ -22,3 +22,9 @@ DOWNLOAD THIS GAME... AND WITNESS MY POWER!!!
 4. Open the folder and right-click the "Game.exe" file.
 5. Select "Create Shortcut."
 6. Drag the shortcut to your desktop and double-click it to play!
+
+## IMPORTANT!
+
+I had to turn some of the game file folders into ZIP files in order to upload them.
+Please extract the Effects file, the Locales file, and the Audio file into the folder BEFORE trying to run this game!
+If you have any issues with the game, reach out to me!
