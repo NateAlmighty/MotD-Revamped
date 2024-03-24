@@ -19,5 +19,6 @@ DOWNLOAD THIS GAME... AND WITNESS MY POWER!!!
 1. Click on the "Main" drop-down list and select which version you wish to download
 2. Click the green "Code" button and select "Download ZIP."
 3. Extract the ZIP file to wherever you'd like the game directory to be.
-4. Open the folder and right-click the "Game.exe" file. Select "Create Shortcut."
-5. Drag the shortcut to your desktop and double-click it to play!
+4. Open the folder and right-click the "Game.exe" file.
+5. Select "Create Shortcut."
+6. Drag the shortcut to your desktop and double-click it to play!
