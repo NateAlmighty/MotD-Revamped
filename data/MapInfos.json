@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Goblin Village","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":636,"quick":false},
-{"id":2,"expanded":true,"name":"Human Town","order":1,"parentId":0,"scrollX":824.8888888888889,"scrollY":882.2222222222222,"quick":false},
-{"id":3,"expanded":true,"name":"Orc Camp","order":3,"parentId":0,"scrollX":720.8888888888889,"scrollY":800.4444444444445,"quick":false},
+{"id":2,"expanded":true,"name":"Human Town","order":1,"parentId":0,"scrollX":832,"scrollY":965.7777777777778,"quick":false},
+{"id":3,"expanded":true,"name":"Orc Camp","order":3,"parentId":0,"scrollX":832,"scrollY":800,"quick":false},
 {"id":4,"expanded":true,"name":"Slime Marsh","order":4,"parentId":0,"scrollX":848,"scrollY":640.4444444444445,"quick":false},
 {"id":5,"expanded":true,"name":"Harpy Nest","order":5,"parentId":0,"scrollX":720.8888888888889,"scrollY":1760.4444444444443,"quick":false},
 {"id":6,"expanded":true,"name":"Minotaur Hub","order":6,"parentId":0,"scrollX":720.8888888888889,"scrollY":624.4444444444445,"quick":false},
