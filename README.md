@@ -13,3 +13,5 @@ SEE MY AWESOME POWER AS I RELEASE MINIONS OF THE DRAGON 2.0!
 BASK IN MY GLORY AS YOU NOW KNOW YOUR WAITING HAS PAID OFF!
 
 DOWNLOAD THIS GAME... AND WITNESS MY POWER!!!
+
+(Remember to download the latest release from the side panel under "releases!")
