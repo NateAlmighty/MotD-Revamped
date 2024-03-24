@@ -22,3 +22,9 @@ DOWNLOAD THIS GAME... AND WITNESS MY POWER!!!
 4. Open the folder and right-click the "Game.exe" file.
 5. Select "Create Shortcut."
 6. Drag the shortcut to your desktop and double-click it to play!
+
+# IMPORTANT!
+
+I had to turn some of the game file folders into ZIP files in order to upload them.
+Please extract the Effects file and Audio file into the folder BEFORE trying to run this game!
+If you have any issues with the game, reach out to me!
